@@ -1,6 +1,9 @@
 ### Hi there 👋
 ## I love **Programming** :rocket:  
 
+- 🔭 I'm currently working on React.js
+- 💬 Ask me about **JavaScript** & **React.js**
+
 <!--
 **deedevs/deedevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
