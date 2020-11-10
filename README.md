@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I love **Programming** :rocket:  
+<img src="https://github.com/deedevs/deedevs/blob/master/gitemoji.png">
 
 - 🔭 I'm currently working on React.js
 - 💬 Ask me about **JavaScript** & **React.js**
