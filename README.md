@@ -7,6 +7,7 @@ My name is David Ladipo. I am currently a senior Computer Engineering major at t
 
 - 🔭 I'm currently working on React.js
 - 💬 Ask me about **JavaScript** & **React.js**
+- ⚡ Fun fact: I Dance
 
 <!--
 **deedevs/deedevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +23,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Find me on the internet :earth_africa:
+- Tweeting about good stuff on <a href="https://twitter.com/davy0417">Twitter</a>
+- Learning to make professional connections on <a href="https://www.linkedin.com/in/david-ladipo-691348108/">Linkedin</a>
+- Creating repositories and reading the code of others here at <a href="https://github.com/deedevs">Github</a>
+- Send me a mail :mailbox: at : dladipo21@gmail.com
+
+
