@@ -1,5 +1,5 @@
-### Hi there 👋
-## I love **Programming** :rocket:  
+
+# Hello there, I'm David :hand: :computer:
 <img src="https://github.com/deedevs/deedevs/blob/main/gitemoji.png">
 
 
