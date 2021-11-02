@@ -2,7 +2,7 @@
 # Hello there, I'm David :hand: :computer:
 <!-- <img src="https://github.com/deedevs/deedevs/blob/main/gitemoji.png"> -->
 
-My name is David Ladipo. I am currently a senior Computer Engineering major at the European Unniversity of Lefke, North Cyprus. As an initiative-taker and an enthusiastic developer, I come with an innate willingness to learn more about the endless opoortunity technology brings. I am committed to making the world a better place by developing technologies that will continue to make our lives simpler and easier and will be used to make positive change to our lives.
+My name is David Ladipo. I am a passionate Fullstack software developer with over 2+ years' experience in software development, process imporvement, on-time delivery of all projects and delivering scalablle applicatiions. A self-motivated and committed individual who enjoys challenges, quick to learn and apprecciates feedback. As an initiative-taker and an enthusiastic developer, I come with an innate willingness to learn more about the endless opoortunity technology brings. I am committed to making the world a better place by developing technologies that will continue to make our lives simpler and easier and will be used to make positive change to our lives.
 
 
 - 🔭 I'm currently working on React.js
